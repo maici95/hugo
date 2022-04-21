@@ -1,0 +1,8 @@
+{
+    "nodemonConfig": {
+        "ignore": ["output/*"]
+    },
+    "dependencies": {
+        "fs": "latest"
+    }
+}
