@@ -28,5 +28,3 @@ langs.forEach(lang => {
     missingKeys.forEach(key => obj[key] = 'MISSING_TRANSLATION');
     fs.writeFileSync(outputPath, JSON.stringify(obj, null, '\t'));
 });
-
-
