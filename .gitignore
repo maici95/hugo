@@ -1,4 +1,6 @@
 input/*
+!input/lang_json_here
 output/*
+!output/missing_files_appears_here
 node_modules/*
 package-lock.json
